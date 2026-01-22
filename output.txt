@@ -1,0 +1,40 @@
+Hostname: ip-172-31-38-19.ap-south-1.compute.internal
+OS Version:PRETTY_NAME="Amazon Linux 2023.10.20260105"
+Kernel Version:6.1.159-181.297.amzn2023.x86_64
+
+echo Uptime:
+uptime
+
+echo Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           481M     0  481M   0% /dev/shm
+tmpfs           193M  436K  192M   1% /run
+/dev/xvda1      8.0G  1.6G  6.5G  19% /
+tmpfs           481M     0  481M   0% /tmp
+/dev/xvda128     10M  1.3M  8.7M  13% /boot/efi
+tmpfs            97M     0   97M   0% /run/user/1000
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           961Mi       123Mi       608Mi       0.0Ki       228Mi       700Mi
+Swap:             0B          0B          0B
+Hostname: ip-172-31-38-19.ap-south-1.compute.internal
+OS Version:PRETTY_NAME="Amazon Linux 2023.10.20260105"
+Kernel Version:6.1.159-181.297.amzn2023.x86_64
+
+echo Uptime:
+uptime
+
+echo Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           481M     0  481M   0% /dev/shm
+tmpfs           193M  436K  192M   1% /run
+/dev/xvda1      8.0G  1.6G  6.5G  19% /
+tmpfs           481M     0  481M   0% /tmp
+/dev/xvda128     10M  1.3M  8.7M  13% /boot/efi
+tmpfs            97M     0   97M   0% /run/user/1000
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           961Mi       123Mi       608Mi       0.0Ki       228Mi       700Mi
+Swap:             0B          0B          0B
