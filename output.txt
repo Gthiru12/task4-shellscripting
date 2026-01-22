@@ -1,4 +1,4 @@
-Hostname: ip-172-31-38-19.ap-south-1.compute.internal
+
 OS Version:PRETTY_NAME="Amazon Linux 2023.10.20260105"
 Kernel Version:6.1.159-181.297.amzn2023.x86_64
 
